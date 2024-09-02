@@ -16,7 +16,7 @@ This project is a simple QR code component challenge from [Frontend Mentor](http
 
 ### Screenshot
 
-![QR Code Component Screenshot](./design/desktop-design.jpg)
+![QR Code Component Screenshot](./qr-code-component-main/design/desktop-design.jpg)
 
 
 
